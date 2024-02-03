@@ -12,5 +12,6 @@ module.exports = [
     // Squid Router
     { name: "what bridge", URL: "https://omniflix.tv/iv/657ccf08d661a858ffc712bb" },
     {name: "fork", URL: ""}
+    {name: "bridge", URL: "https://omniflix.tv/iv/657ccf08d661a858ffc712bb" },
     { name: "transfer from", URL: "https://omniflix.tv/iv/657ccf08d661a858ffc712bb" },
 ];
